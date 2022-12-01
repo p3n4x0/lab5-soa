@@ -16,4 +16,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
-|           |     |               |       |
+| [GonchiMonchi](https://github.com/GonchiMonchi/lab5-soa/tree/work) | 759561 | ![Build Status](https://github.com/GonchiMonchi/lab5-soa/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/GonchiMonchi/lab5-soa/actions/workflows/CI.yml) |       |
